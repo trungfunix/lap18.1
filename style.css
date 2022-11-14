@@ -1,0 +1,22 @@
+.bg-img1{
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://img.lovepik.com/photo/40008/2412.jpg_wh860.jpg);
+}
+
+
+.bg-img2{
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://img.lovepik.com/photo/40007/3072.jpg_wh860.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cdn.vietnambiz.vn/2020/2/19/photo-1582081381606-15820813816081123574478.png);
+}
+
+nav{display: flex;
+display: inline-block;
+}
